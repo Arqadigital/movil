@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22.21 22.21">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ea4335;
+      }
+
+      .cls-2 {
+        fill: #fbbc04;
+      }
+
+      .cls-3 {
+        fill: #4285f4;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+
+      .cls-5 {
+        fill: #34a853;
+      }
+    </style>
+  </defs>
+  <g id="Capa_2-2" data-name="Capa 2">
+    <g>
+      <g id="bounding_box" data-name="bounding box">
+        <rect id="bounding_box-2" data-name="bounding box-2" class="cls-4" width="22.21" height="22.21"/>
+      </g>
+      <g id="art_layer" data-name="art layer">
+        <path class="cls-1" d="M5.55,10.8c-.38,0-.69-.32-.69-.69v-4.56c0-.38.32-.69.69-.69s.69.32.69.69v4.56c0,.38-.32.69-.69.69Z"/>
+        <path class="cls-2" d="M11.1,20.12c-.13,0-.26-.04-.38-.11l-7.63-4.86c-.32-.2-.42-.63-.21-.95s.63-.41.95-.21l7.26,4.62,7.26-4.62c.32-.2.75-.11.95.21.2.32.11.75-.21.95l-7.63,4.86c-.11.08-.24.11-.38.11h0Z"/>
+        <path class="cls-5" d="M11.1,17.09c-.38,0-.69-.32-.69-.69v-3.17c0-.38.32-.69.69-.69s.69.32.69.69v3.17c0,.38-.32.69-.69.69Z"/>
+        <circle class="cls-1" cx="5.55" cy="2.78" r=".69"/>
+        <circle class="cls-1" cx="5.55" cy="12.88" r=".69"/>
+        <path class="cls-3" d="M16.66,13.62c-.38,0-.69-.31-.69-.69v-4.6c0-.38.3-.69.68-.69h0c.38,0,.69.31.69.69v4.6c0,.38-.3.69-.68.69h0Z"/>
+        <circle class="cls-3" cx="16.65" cy="2.78" r=".69"/>
+        <circle class="cls-3" cx="16.65" cy="5.56" r=".69"/>
+        <path class="cls-2" d="M13.88,9.76c-.38,0-.69-.32-.69-.69v-4.47c0-.38.32-.69.69-.69s.69.32.69.69v4.47c0,.38-.32.69-.69.69Z"/>
+        <circle class="cls-5" cx="11.1" cy="7.68" r=".69"/>
+        <circle class="cls-5" cx="11.1" cy="10.46" r=".69"/>
+        <circle class="cls-2" cx="13.88" cy="11.84" r=".69"/>
+        <circle class="cls-2" cx="13.88" cy="14.62" r=".69"/>
+        <path class="cls-2" d="M8.32,9.76c-.38,0-.69-.32-.69-.69v-4.47c0-.38.32-.69.69-.69s.69.32.69.69v4.47c0,.38-.32.69-.69.69Z"/>
+        <circle class="cls-2" cx="8.32" cy="11.84" r=".69"/>
+        <circle class="cls-2" cx="8.32" cy="14.62" r=".69"/>
+      </g>
+    </g>
+  </g>
+</svg>
